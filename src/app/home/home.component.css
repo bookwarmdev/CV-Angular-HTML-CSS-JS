@@ -1,0 +1,35 @@
+.color{
+    background-color: rgb(32, 24, 88);
+    color: white;
+}
+
+.color_2{
+    background-color: white;
+}
+.card{
+    margin-top: 30px;
+    width: 250px;
+    box-shadow: gray 0px 0px 10px ;
+}
+.top_image{ 
+    width: auto;
+    height: 300px;
+}
+
+.info{
+    background: rgb(54, 54, 145); 
+    text-align: center;
+    width: auto;
+    color: white; 
+    border-radius: 10px;
+}
+
+.info_detail{
+    float: left;
+    margin-right: 20px;
+}
+
+.info_content{
+    clear: both;
+}
+   
